@@ -1,0 +1,11 @@
+{
+  "name": "tailwindv4",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "esbenp.prettier-vscode",
+        "ecmel.vscode-css-intellisense"
+      ]
+    }
+  }
+}
