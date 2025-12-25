@@ -4,7 +4,7 @@
     "vscode": {
       "extensions": [
         "esbenp.prettier-vscode",
-        "ecmel.vscode-css-intellisense"
+        "bradlc.vscode-tailwindcss"
       ]
     }
   }
